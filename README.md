@@ -9,8 +9,10 @@
 
 3. What minimally needs to work?
 
-- I must able to mark the spots, i.e. place the ships on my table
-- I must able to store the spots, i.e. store the location of the ships
+- Able to mark the spots, i.e. place the ships on my table
+- Able to store the spots, i.e. store the location of the ships
+- Able to allow the computer shoot down my ship
+- Able to display that the computer won
 
 ## Game ingredients
 
