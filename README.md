@@ -4,13 +4,14 @@
 
 2. Identify the essential elements.
 
-- How many ships do I want?
-- Let's set 1 ship.
+- How many ships will my game have?
+- 1 Destroyer
 
 3. What minimally needs to work?
 
 - Able to mark the spots, i.e. place the ships on my table
 - Able to store the spots, i.e. store the location of the ships
+- store vertical or horizontal positions
 - Able to allow the computer shoot down my ship
 - Able to display that the computer won
 
@@ -35,4 +36,4 @@
 
 Shots stretch goals:
 
-- use pictures
+- use pictures (red and white)
